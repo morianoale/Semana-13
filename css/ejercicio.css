@@ -1,0 +1,15 @@
+a:link{
+    background-color: aquamarine;
+}
+a:visited{
+    background-color: black;
+    color: aquamarine;
+}
+a:hover{
+    background-color: blue;
+    color: blueviolet;
+}
+a:active{
+    background-color: brown;
+    color: darkslateblue;
+}
